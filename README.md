@@ -1,5 +1,4 @@
-[![github stats](https://github-readme-stats.vercel.app/api?username=christiansiegel&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![github stats](https://github-readme-stats.vercel.app/api?username=christiansiegel&show_icons=true&bg_color=ffffff00&text_color=595959)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **christiansiegel/christiansiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
